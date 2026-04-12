@@ -1,0 +1,11 @@
+name: autoops-env
+version: 1.0
+
+environment:
+  type: workflow
+  description: AI agent for developer workflow automation
+
+tasks:
+  - triage
+  - summarize
+  - prioritize
